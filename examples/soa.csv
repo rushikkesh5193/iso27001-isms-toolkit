@@ -1,0 +1,94 @@
+Control,Title,Theme,New in 2022,Applicable,Justification,Implementation status,Owner,Evidence,Last reviewed
+5.1,Policies for information security,Organizational,,Yes,,implemented,Compliance Lead,EV-5.1,2026-04-19
+5.2,Information security roles and responsibilities,Organizational,,Yes,,implemented,Compliance Lead,EV-5.2,2026-07-05
+5.3,Segregation of duties,Organizational,,Yes,,implemented,Compliance Lead,EV-5.3,2026-05-20
+5.4,Management responsibilities,Organizational,,Yes,,implemented,Compliance Lead,EV-5.4,2026-06-21
+5.5,Contact with authorities,Organizational,,Yes,,implemented,Compliance Lead,EV-5.5,2026-07-03
+5.6,Contact with special interest groups,Organizational,,Not assessed,,not assessed,,,
+5.7,Threat intelligence,Organizational,Yes,Yes,,not_implemented,Compliance Lead,,2026-09-16
+5.8,Information security in project management,Organizational,,Yes,,implemented,Compliance Lead,EV-5.8,2026-05-18
+5.9,Inventory of information and other associated assets,Organizational,,Yes,,implemented,Compliance Lead,,2026-04-07
+5.10,Acceptable use of information and other associated assets,Organizational,,Yes,,implemented,Compliance Lead,EV-5.10,2026-08-16
+5.11,Return of assets,Organizational,,Yes,,implemented,Compliance Lead,EV-5.11,2026-07-27
+5.12,Classification of information,Organizational,,Yes,,implemented,Compliance Lead,EV-5.12,2026-07-16
+5.13,Labelling of information,Organizational,,Yes,,implemented,Compliance Lead,EV-5.13,2026-06-21
+5.14,Information transfer,Organizational,,Yes,,implemented,Compliance Lead,EV-5.14,2026-09-05
+5.15,Access control,Organizational,,Yes,,implemented,Compliance Lead,EV-5.15,2026-04-21
+5.16,Identity management,Organizational,,Yes,,implemented,Compliance Lead,EV-5.16,2026-04-28
+5.17,Authentication information,Organizational,,Yes,,implemented,Compliance Lead,EV-5.17,2026-07-13
+5.18,Access rights,Organizational,,Yes,,implemented,Compliance Lead,EV-5.18,2026-08-01
+5.19,Information security in supplier relationships,Organizational,,Yes,,implemented,Compliance Lead,EV-5.19,2026-08-25
+5.20,Addressing information security within supplier agreements,Organizational,,Yes,,implemented,Compliance Lead,EV-5.20,2026-03-06
+5.21,Managing information security in the ICT supply chain,Organizational,,Yes,,implemented,Compliance Lead,EV-5.21,2026-09-19
+5.22,"Monitoring, review and change management of supplier services",Organizational,,Yes,,implemented,Compliance Lead,EV-5.22,2026-03-10
+5.23,Information security for use of cloud services,Organizational,Yes,Yes,,implemented,Compliance Lead,EV-5.23,2026-09-01
+5.24,Information security incident management planning and preparation,Organizational,,Yes,,implemented,Compliance Lead,EV-5.24,2026-09-28
+5.25,Assessment and decision on information security events,Organizational,,Yes,,implemented,Compliance Lead,EV-5.25,2026-05-16
+5.26,Response to information security incidents,Organizational,,Yes,,implemented,Compliance Lead,EV-5.26,2026-07-24
+5.27,Learning from information security incidents,Organizational,,Yes,,implemented,Compliance Lead,EV-5.27,2026-06-23
+5.28,Collection of evidence,Organizational,,Yes,,implemented,Compliance Lead,EV-5.28,2026-09-14
+5.29,Information security during disruption,Organizational,,Yes,,implemented,Compliance Lead,EV-5.29,2026-06-24
+5.30,ICT readiness for business continuity,Organizational,Yes,Yes,,partial,Compliance Lead,EV-5.30,2026-09-19
+5.31,"Legal, statutory, regulatory and contractual requirements",Organizational,,Yes,,implemented,Compliance Lead,EV-5.31,2026-06-05
+5.32,Intellectual property rights,Organizational,,Not assessed,,not assessed,,,
+5.33,Protection of records,Organizational,,Yes,,implemented,Compliance Lead,EV-5.33,2026-03-05
+5.34,Privacy and protection of PII,Organizational,,Yes,,implemented,Compliance Lead,EV-5.34,2026-06-07
+5.35,Independent review of information security,Organizational,,Yes,,implemented,Compliance Lead,EV-5.35,2026-05-22
+5.36,"Compliance with policies, rules and standards for information security",Organizational,,Yes,,implemented,Compliance Lead,EV-5.36,2026-06-25
+5.37,Documented operating procedures,Organizational,,Yes,,implemented,Compliance Lead,EV-5.37,2026-08-28
+6.1,Screening,People,,Yes,,implemented,HR Head,EV-6.1,2025-06-01
+6.2,Terms and conditions of employment,People,,Yes,,implemented,HR Head,EV-6.2,2026-07-27
+6.3,"Information security awareness, education and training",People,,Yes,,implemented,HR Head,EV-6.3,2026-06-19
+6.4,Disciplinary process,People,,Yes,,implemented,HR Head,EV-6.4,2026-05-18
+6.5,Responsibilities after termination or change of employment,People,,Yes,,implemented,HR Head,EV-6.5,2026-07-14
+6.6,Confidentiality or non-disclosure agreements,People,,Yes,,implemented,HR Head,EV-6.6,2026-07-08
+6.7,Remote working,People,,Yes,,implemented,HR Head,EV-6.7,2026-05-22
+6.8,Information security event reporting,People,,Yes,,implemented,HR Head,EV-6.8,2026-03-28
+7.1,Physical security perimeters,Physical,,Yes,,implemented,Facilities Lead,EV-7.1,2026-05-20
+7.2,Physical entry,Physical,,Yes,,implemented,Facilities Lead,EV-7.2,2026-08-23
+7.3,"Securing offices, rooms and facilities",Physical,,Yes,,implemented,Facilities Lead,EV-7.3,2026-04-23
+7.4,Physical security monitoring,Physical,Yes,Yes,,implemented,,EV-7.4,2026-09-11
+7.5,Protecting against physical and environmental threats,Physical,,Yes,,implemented,Facilities Lead,EV-7.5,2026-07-19
+7.6,Working in secure areas,Physical,,Yes,,implemented,Facilities Lead,EV-7.6,2026-07-04
+7.7,Clear desk and clear screen,Physical,,Yes,,implemented,Facilities Lead,EV-7.7,2026-08-21
+7.8,Equipment siting and protection,Physical,,Yes,,implemented,Facilities Lead,EV-7.8,2026-04-21
+7.9,Security of assets off-premises,Physical,,Yes,,implemented,Facilities Lead,EV-7.9,2026-09-19
+7.10,Storage media,Physical,,Yes,,implemented,Facilities Lead,EV-7.10,2026-05-10
+7.11,Supporting utilities,Physical,,Yes,,implemented,Facilities Lead,EV-7.11,2026-03-03
+7.12,Cabling security,Physical,,Not assessed,,not assessed,,,
+7.13,Equipment maintenance,Physical,,Not assessed,,not assessed,,,
+7.14,Secure disposal or re-use of equipment,Physical,,Yes,,implemented,Facilities Lead,EV-7.14,2026-03-12
+8.1,User endpoint devices,Technological,,Yes,,implemented,IT Manager,EV-8.1,2026-09-03
+8.2,Privileged access rights,Technological,,Yes,,implemented,IT Manager,EV-8.2,2026-06-05
+8.3,Information access restriction,Technological,,Yes,,implemented,IT Manager,EV-8.3,2026-03-10
+8.4,Access to source code,Technological,,No,No in-house source code; all software is procured.,n/a,,,
+8.5,Secure authentication,Technological,,Yes,,implemented,IT Manager,EV-8.5,2026-06-28
+8.6,Capacity management,Technological,,Yes,,implemented,IT Manager,EV-8.6,2026-03-02
+8.7,Protection against malware,Technological,,Yes,,implemented,IT Manager,EV-8.7,2026-07-20
+8.8,Management of technical vulnerabilities,Technological,,Yes,,implemented,IT Manager,EV-8.8,2026-09-02
+8.9,Configuration management,Technological,Yes,Yes,,implemented,IT Manager,EV-8.9,2026-06-23
+8.10,Information deletion,Technological,Yes,Yes,,implemented,IT Manager,EV-8.10,2026-07-11
+8.11,Data masking,Technological,Yes,Yes,,implemented,IT Manager,EV-8.11,2026-07-09
+8.12,Data leakage prevention,Technological,Yes,Yes,,planned,IT Manager,,2026-07-08
+8.13,Information backup,Technological,,Yes,,implemented,IT Manager,EV-8.13,2026-03-10
+8.14,Redundancy of information processing facilities,Technological,,Yes,,implemented,IT Manager,EV-8.14,2026-03-03
+8.15,Logging,Technological,,Yes,,implemented,IT Manager,EV-8.15,2026-03-20
+8.16,Monitoring activities,Technological,Yes,Yes,,partial,IT Manager,EV-8.16,2026-07-02
+8.17,Clock synchronization,Technological,,Yes,,implemented,IT Manager,EV-8.17,2026-04-14
+8.18,Use of privileged utility programs,Technological,,Yes,,implemented,IT Manager,EV-8.18,2026-05-20
+8.19,Installation of software on operational systems,Technological,,Yes,,implemented,IT Manager,EV-8.19,2026-05-05
+8.20,Networks security,Technological,,Yes,,implemented,IT Manager,EV-8.20,2026-08-02
+8.21,Security of network services,Technological,,Yes,,implemented,IT Manager,EV-8.21,2026-09-11
+8.22,Segregation of networks,Technological,,Yes,,implemented,IT Manager,EV-8.22,2026-05-12
+8.23,Web filtering,Technological,Yes,Yes,,implemented,IT Manager,EV-8.23,2026-04-28
+8.24,Use of cryptography,Technological,,Yes,,implemented,IT Manager,EV-8.24,2026-06-13
+8.25,Secure development life cycle,Technological,,Yes,,implemented,IT Manager,EV-8.25,2026-06-28
+8.26,Application security requirements,Technological,,Yes,,implemented,IT Manager,EV-8.26,2026-07-13
+8.27,Secure system architecture and engineering principles,Technological,,Yes,,implemented,IT Manager,EV-8.27,2026-08-28
+8.28,Secure coding,Technological,Yes,Yes,,implemented,IT Manager,EV-8.28,2026-07-22
+8.29,Security testing in development and acceptance,Technological,,Yes,,implemented,IT Manager,EV-8.29,2026-07-04
+8.30,Outsourced development,Technological,,No,,n/a,,,
+8.31,"Separation of development, test and production environments",Technological,,Yes,,implemented,IT Manager,EV-8.31,2026-07-09
+8.32,Change management,Technological,,Yes,,implemented,IT Manager,EV-8.32,2026-06-21
+8.33,Test information,Technological,,Yes,,implemented,IT Manager,EV-8.33,2026-08-23
+8.34,Protection of information systems during audit testing,Technological,,Not assessed,,not assessed,,,

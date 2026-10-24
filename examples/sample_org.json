@@ -1,0 +1,837 @@
+{
+ "_note": "SYNTHETIC DATA for a fictional company.",
+ "organisation": "ExampleOrg Pvt Ltd (fictional)",
+ "last_risk_assessment": "2026-03-10",
+ "audit_programme": [
+  {
+   "date": "2025-09-15",
+   "scope": "Full ISMS"
+  }
+ ],
+ "management_reviews": [
+  {
+   "date": "2026-04-20"
+  }
+ ],
+ "controls": {
+  "5.1": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.1",
+   "last_reviewed": "2026-04-19"
+  },
+  "5.2": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.2",
+   "last_reviewed": "2026-07-05"
+  },
+  "5.3": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.3",
+   "last_reviewed": "2026-05-20"
+  },
+  "5.4": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.4",
+   "last_reviewed": "2026-06-21"
+  },
+  "5.5": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.5",
+   "last_reviewed": "2026-07-03"
+  },
+  "5.7": {
+   "applicable": true,
+   "status": "not_implemented",
+   "owner": "Compliance Lead",
+   "evidence": "",
+   "last_reviewed": "2026-09-16"
+  },
+  "5.8": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.8",
+   "last_reviewed": "2026-05-18"
+  },
+  "5.9": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "",
+   "last_reviewed": "2026-04-07"
+  },
+  "5.10": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.10",
+   "last_reviewed": "2026-08-16"
+  },
+  "5.11": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.11",
+   "last_reviewed": "2026-07-27"
+  },
+  "5.12": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.12",
+   "last_reviewed": "2026-07-16"
+  },
+  "5.13": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.13",
+   "last_reviewed": "2026-06-21"
+  },
+  "5.14": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.14",
+   "last_reviewed": "2026-09-05"
+  },
+  "5.15": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.15",
+   "last_reviewed": "2026-04-21"
+  },
+  "5.16": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.16",
+   "last_reviewed": "2026-04-28"
+  },
+  "5.17": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.17",
+   "last_reviewed": "2026-07-13"
+  },
+  "5.18": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.18",
+   "last_reviewed": "2026-08-01"
+  },
+  "5.19": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.19",
+   "last_reviewed": "2026-08-25"
+  },
+  "5.20": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.20",
+   "last_reviewed": "2026-03-06"
+  },
+  "5.21": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.21",
+   "last_reviewed": "2026-09-19"
+  },
+  "5.22": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.22",
+   "last_reviewed": "2026-03-10"
+  },
+  "5.23": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.23",
+   "last_reviewed": "2026-09-01"
+  },
+  "5.24": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.24",
+   "last_reviewed": "2026-09-28"
+  },
+  "5.25": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.25",
+   "last_reviewed": "2026-05-16"
+  },
+  "5.26": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.26",
+   "last_reviewed": "2026-07-24"
+  },
+  "5.27": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.27",
+   "last_reviewed": "2026-06-23"
+  },
+  "5.28": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.28",
+   "last_reviewed": "2026-09-14"
+  },
+  "5.29": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.29",
+   "last_reviewed": "2026-06-24"
+  },
+  "5.30": {
+   "applicable": true,
+   "status": "partial",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.30",
+   "last_reviewed": "2026-09-19"
+  },
+  "5.31": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.31",
+   "last_reviewed": "2026-06-05"
+  },
+  "5.33": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.33",
+   "last_reviewed": "2026-03-05"
+  },
+  "5.34": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.34",
+   "last_reviewed": "2026-06-07"
+  },
+  "5.35": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.35",
+   "last_reviewed": "2026-05-22"
+  },
+  "5.36": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.36",
+   "last_reviewed": "2026-06-25"
+  },
+  "5.37": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Compliance Lead",
+   "evidence": "EV-5.37",
+   "last_reviewed": "2026-08-28"
+  },
+  "6.1": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.1",
+   "last_reviewed": "2025-06-01"
+  },
+  "6.2": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.2",
+   "last_reviewed": "2026-07-27"
+  },
+  "6.3": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.3",
+   "last_reviewed": "2026-06-19"
+  },
+  "6.4": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.4",
+   "last_reviewed": "2026-05-18"
+  },
+  "6.5": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.5",
+   "last_reviewed": "2026-07-14"
+  },
+  "6.6": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.6",
+   "last_reviewed": "2026-07-08"
+  },
+  "6.7": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.7",
+   "last_reviewed": "2026-05-22"
+  },
+  "6.8": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "HR Head",
+   "evidence": "EV-6.8",
+   "last_reviewed": "2026-03-28"
+  },
+  "7.1": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.1",
+   "last_reviewed": "2026-05-20"
+  },
+  "7.2": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.2",
+   "last_reviewed": "2026-08-23"
+  },
+  "7.3": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.3",
+   "last_reviewed": "2026-04-23"
+  },
+  "7.4": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "",
+   "evidence": "EV-7.4",
+   "last_reviewed": "2026-09-11"
+  },
+  "7.5": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.5",
+   "last_reviewed": "2026-07-19"
+  },
+  "7.6": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.6",
+   "last_reviewed": "2026-07-04"
+  },
+  "7.7": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.7",
+   "last_reviewed": "2026-08-21"
+  },
+  "7.8": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.8",
+   "last_reviewed": "2026-04-21"
+  },
+  "7.9": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.9",
+   "last_reviewed": "2026-09-19"
+  },
+  "7.10": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.10",
+   "last_reviewed": "2026-05-10"
+  },
+  "7.11": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.11",
+   "last_reviewed": "2026-03-03"
+  },
+  "7.14": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "Facilities Lead",
+   "evidence": "EV-7.14",
+   "last_reviewed": "2026-03-12"
+  },
+  "8.1": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.1",
+   "last_reviewed": "2026-09-03"
+  },
+  "8.2": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.2",
+   "last_reviewed": "2026-06-05"
+  },
+  "8.3": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.3",
+   "last_reviewed": "2026-03-10"
+  },
+  "8.4": {
+   "applicable": false,
+   "justification": "No in-house source code; all software is procured."
+  },
+  "8.5": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.5",
+   "last_reviewed": "2026-06-28"
+  },
+  "8.6": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.6",
+   "last_reviewed": "2026-03-02"
+  },
+  "8.7": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.7",
+   "last_reviewed": "2026-07-20"
+  },
+  "8.8": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.8",
+   "last_reviewed": "2026-09-02"
+  },
+  "8.9": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.9",
+   "last_reviewed": "2026-06-23"
+  },
+  "8.10": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.10",
+   "last_reviewed": "2026-07-11"
+  },
+  "8.11": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.11",
+   "last_reviewed": "2026-07-09"
+  },
+  "8.12": {
+   "applicable": true,
+   "status": "planned",
+   "owner": "IT Manager",
+   "evidence": "",
+   "last_reviewed": "2026-07-08"
+  },
+  "8.13": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.13",
+   "last_reviewed": "2026-03-10"
+  },
+  "8.14": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.14",
+   "last_reviewed": "2026-03-03"
+  },
+  "8.15": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.15",
+   "last_reviewed": "2026-03-20"
+  },
+  "8.16": {
+   "applicable": true,
+   "status": "partial",
+   "owner": "IT Manager",
+   "evidence": "EV-8.16",
+   "last_reviewed": "2026-07-02"
+  },
+  "8.17": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.17",
+   "last_reviewed": "2026-04-14"
+  },
+  "8.18": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.18",
+   "last_reviewed": "2026-05-20"
+  },
+  "8.19": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.19",
+   "last_reviewed": "2026-05-05"
+  },
+  "8.20": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.20",
+   "last_reviewed": "2026-08-02"
+  },
+  "8.21": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.21",
+   "last_reviewed": "2026-09-11"
+  },
+  "8.22": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.22",
+   "last_reviewed": "2026-05-12"
+  },
+  "8.23": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.23",
+   "last_reviewed": "2026-04-28"
+  },
+  "8.24": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.24",
+   "last_reviewed": "2026-06-13"
+  },
+  "8.25": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.25",
+   "last_reviewed": "2026-06-28"
+  },
+  "8.26": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.26",
+   "last_reviewed": "2026-07-13"
+  },
+  "8.27": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.27",
+   "last_reviewed": "2026-08-28"
+  },
+  "8.28": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.28",
+   "last_reviewed": "2026-07-22"
+  },
+  "8.29": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.29",
+   "last_reviewed": "2026-07-04"
+  },
+  "8.30": {
+   "applicable": false,
+   "justification": ""
+  },
+  "8.31": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.31",
+   "last_reviewed": "2026-07-09"
+  },
+  "8.32": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.32",
+   "last_reviewed": "2026-06-21"
+  },
+  "8.33": {
+   "applicable": true,
+   "status": "implemented",
+   "owner": "IT Manager",
+   "evidence": "EV-8.33",
+   "last_reviewed": "2026-08-23"
+  }
+ },
+ "risks": [
+  {
+   "id": "R01",
+   "title": "Ransomware encrypts file servers",
+   "asset": "File servers",
+   "likelihood": 4,
+   "impact": 5,
+   "controls": [
+    "8.13",
+    "8.7",
+    "8.16"
+   ],
+   "residual_likelihood": 2,
+   "residual_impact": 5,
+   "treatment_option": "mitigate",
+   "treatment_owner": "IT Manager",
+   "treatment_due": "2027-01-01",
+   "treatment_status": "open"
+  },
+  {
+   "id": "R02",
+   "title": "Insider copies customer data to personal cloud",
+   "asset": "Customer data",
+   "likelihood": 3,
+   "impact": 4,
+   "controls": [
+    "8.12"
+   ],
+   "residual_likelihood": 2,
+   "residual_impact": 4,
+   "treatment_option": "mitigate",
+   "treatment_owner": "CISO",
+   "treatment_due": "2026-09-15",
+   "treatment_status": "open"
+  },
+  {
+   "id": "R03",
+   "title": "Phishing leads to credential theft",
+   "asset": "User accounts",
+   "likelihood": 4,
+   "impact": 4,
+   "controls": [
+    "6.3",
+    "8.5"
+   ],
+   "residual_likelihood": 3,
+   "residual_impact": 4,
+   "treatment_option": "none"
+  },
+  {
+   "id": "R04",
+   "title": "KYC vendor suffers a breach",
+   "asset": "Vendor data flow",
+   "likelihood": 3,
+   "impact": 5,
+   "controls": [
+    "5.19",
+    "5.20",
+    "5.22"
+   ],
+   "residual_likelihood": 2,
+   "residual_impact": 5,
+   "treatment_option": "mitigate",
+   "treatment_owner": "Compliance Lead",
+   "treatment_due": "2026-08-01",
+   "treatment_status": "complete"
+  },
+  {
+   "id": "R05",
+   "title": "Unpatched internet-facing server exploited",
+   "asset": "Web servers",
+   "likelihood": 3,
+   "impact": 4,
+   "controls": [
+    "8.8"
+   ],
+   "residual_likelihood": 2,
+   "residual_impact": 4,
+   "treatment_option": "mitigate",
+   "treatment_owner": "IT Manager",
+   "treatment_due": "2027-02-01",
+   "treatment_status": "open"
+  },
+  {
+   "id": "R06",
+   "title": "Loss of a key team member",
+   "asset": "People",
+   "likelihood": 2,
+   "impact": 3,
+   "controls": [],
+   "treatment_option": "accept",
+   "approved_by": "CEO",
+   "review_date": "2027-03-01"
+  },
+  {
+   "id": "R07",
+   "title": "Primary data centre outage",
+   "asset": "Hosting",
+   "likelihood": 2,
+   "impact": 5,
+   "controls": [
+    "5.30"
+   ],
+   "residual_likelihood": 1,
+   "residual_impact": 5,
+   "treatment_option": "accept",
+   "review_date": "2026-08-01"
+  },
+  {
+   "id": "R08",
+   "title": "Weak guest Wi-Fi segregation",
+   "asset": "Network",
+   "likelihood": 2,
+   "impact": 2,
+   "controls": [
+    "9.9"
+   ],
+   "treatment_option": "mitigate",
+   "treatment_owner": "IT Manager",
+   "treatment_due": "2027-01-15",
+   "treatment_status": "open"
+  },
+  {
+   "id": "R09",
+   "title": "Legacy unsupported OS still in production",
+   "asset": "Legacy app server",
+   "likelihood": 5,
+   "impact": 4,
+   "controls": [],
+   "treatment_option": "accept",
+   "approved_by": "CEO",
+   "review_date": "2027-01-01"
+  },
+  {
+   "id": "R10",
+   "title": "Loss of backup media in transit",
+   "asset": "Backups",
+   "likelihood": 2,
+   "impact": 3,
+   "controls": [
+    "7.10",
+    "8.13"
+   ],
+   "residual_likelihood": 1,
+   "residual_impact": 3,
+   "treatment_option": "mitigate",
+   "treatment_owner": "IT Manager",
+   "treatment_due": "2027-03-01",
+   "treatment_status": "open"
+  }
+ ],
+ "audit_findings": [
+  {
+   "id": "F-01",
+   "type": "major_nc",
+   "control": "8.8",
+   "title": "Critical patches not applied within policy timelines",
+   "raised": "2026-07-15",
+   "due": "2026-09-30",
+   "owner": "IT Manager"
+  },
+  {
+   "id": "F-02",
+   "type": "minor_nc",
+   "control": "5.15",
+   "title": "Access control policy not reviewed after reorganisation",
+   "raised": "2026-07-15",
+   "due": "2026-10-01",
+   "owner": "CISO"
+  },
+  {
+   "id": "F-03",
+   "type": "observation",
+   "control": "6.3",
+   "title": "Awareness attendance records incomplete",
+   "raised": "2026-07-15",
+   "due": "2026-10-10",
+   "owner": "HR Head"
+  },
+  {
+   "id": "F-04",
+   "type": "minor_nc",
+   "control": "8.15",
+   "title": "Log retention shorter than policy",
+   "raised": "2026-07-15",
+   "due": "2026-09-01",
+   "closed": "2026-08-25",
+   "owner": "IT Manager"
+  },
+  {
+   "id": "F-05",
+   "type": "minor_nc",
+   "control": "5.24",
+   "title": "Incident response plan not tested this year",
+   "raised": "2026-07-15",
+   "due": "2026-12-01",
+   "owner": "CISO"
+  },
+  {
+   "id": "F-06",
+   "type": "ofi",
+   "control": "9.9",
+   "title": "Consider automating evidence collection",
+   "raised": "2026-07-15",
+   "due": "2026-12-31",
+   "closed": "2026-09-01",
+   "owner": "Compliance Lead"
+  }
+ ]
+}

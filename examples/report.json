@@ -1,0 +1,423 @@
+{
+  "as_of": "2026-10-24",
+  "organisation": "ExampleOrg Pvt Ltd (fictional)",
+  "readiness": {
+    "overall": {
+      "controls": 93,
+      "in_scope": 91,
+      "excluded": 2,
+      "not_assessed": 5,
+      "implemented": 82,
+      "partial": 2,
+      "score": 91.2
+    },
+    "themes": {
+      "Organizational": {
+        "controls": 37,
+        "in_scope": 37,
+        "excluded": 0,
+        "not_assessed": 2,
+        "implemented": 33,
+        "partial": 1,
+        "score": 90.5
+      },
+      "People": {
+        "controls": 8,
+        "in_scope": 8,
+        "excluded": 0,
+        "not_assessed": 0,
+        "implemented": 8,
+        "partial": 0,
+        "score": 100.0
+      },
+      "Physical": {
+        "controls": 14,
+        "in_scope": 14,
+        "excluded": 0,
+        "not_assessed": 2,
+        "implemented": 12,
+        "partial": 0,
+        "score": 85.7
+      },
+      "Technological": {
+        "controls": 34,
+        "in_scope": 32,
+        "excluded": 2,
+        "not_assessed": 1,
+        "implemented": 29,
+        "partial": 1,
+        "score": 92.2
+      }
+    }
+  },
+  "issues": [
+    {
+      "area": "audit",
+      "check": "FINDING_OVERDUE",
+      "severity": "high",
+      "ref": "F-01",
+      "title": "Open major nc F-01 is past its due date",
+      "detail": "Critical patches not applied within policy timelines. Due 2026-09-30 (24 days late), owner IT Manager.",
+      "action": "Agree a dated corrective action and verify closure."
+    },
+    {
+      "area": "controls",
+      "check": "EXCLUDED_NO_JUSTIFICATION",
+      "severity": "high",
+      "ref": "8.30",
+      "title": "Control 8.30 excluded without justification",
+      "detail": "Outsourced development is marked not applicable with no reason recorded.",
+      "action": "Record why the control is not applicable; auditors will ask."
+    },
+    {
+      "area": "programme",
+      "check": "INTERNAL_AUDIT_OVERDUE",
+      "severity": "high",
+      "ref": "Cl. 9.2",
+      "title": "No internal audit in the last 12 months",
+      "detail": "Last internal audit: 2025-09-15.",
+      "action": "Plan and complete an internal audit covering the ISMS scope."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_RELIES_ON_GAP",
+      "severity": "high",
+      "ref": "R02",
+      "title": "Risk R02 lowered by control 8.12 which is planned",
+      "detail": "Insider copies customer data to personal cloud: residual 8 < inherent 12, but 8.12 (Data leakage prevention) is not fully implemented.",
+      "action": "Either finish the control or restore the risk score until it is in place."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_UNTREATED",
+      "severity": "high",
+      "ref": "R03",
+      "title": "High risk R03 has no treatment decision",
+      "detail": "Phishing leads to credential theft (residual 12).",
+      "action": "Choose to mitigate, transfer, avoid or formally accept, with an owner and date."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_ACCEPT_NO_APPROVAL",
+      "severity": "high",
+      "ref": "R07",
+      "title": "Risk R07 accepted without recorded approval",
+      "detail": "Primary data centre outage",
+      "action": "Obtain and record sign-off from the risk owner / management."
+    },
+    {
+      "area": "risks",
+      "check": "CRITICAL_RISK_ACCEPTED",
+      "severity": "high",
+      "ref": "R09",
+      "title": "Critical risk R09 is being accepted",
+      "detail": "Legacy unsupported OS still in production (residual 20).",
+      "action": "Confirm top management has explicitly agreed."
+    },
+    {
+      "area": "audit",
+      "check": "FINDING_OVERDUE",
+      "severity": "medium",
+      "ref": "F-02",
+      "title": "Open minor nc F-02 is past its due date",
+      "detail": "Access control policy not reviewed after reorganisation. Due 2026-10-01 (23 days late), owner CISO.",
+      "action": "Agree a dated corrective action and verify closure."
+    },
+    {
+      "area": "controls",
+      "check": "NO_EVIDENCE",
+      "severity": "medium",
+      "ref": "5.9",
+      "title": "Control 5.9 is implemented but has no evidence reference",
+      "detail": "Inventory of information and other associated assets",
+      "action": "Link the policy, record or screenshot that proves it."
+    },
+    {
+      "area": "controls",
+      "check": "EVIDENCE_STALE",
+      "severity": "medium",
+      "ref": "6.1",
+      "title": "Control 6.1 not reviewed in over 12 months",
+      "detail": "Screening: last reviewed 2025-06-01.",
+      "action": "Re-review the control and refresh the evidence."
+    },
+    {
+      "area": "controls",
+      "check": "NOT_ASSESSED",
+      "severity": "medium",
+      "ref": "SoA",
+      "title": "5 Annex A controls have not been assessed",
+      "detail": "Statement of Applicability is incomplete: 5.6, 5.32, 7.12, 7.13, 8.34.",
+      "action": "Decide applicability and status for each control, with a justification for any exclusion."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_RELIES_ON_GAP",
+      "severity": "medium",
+      "ref": "R01",
+      "title": "Risk R01 lowered by control 8.16 which is partial",
+      "detail": "Ransomware encrypts file servers: residual 10 < inherent 20, but 8.16 (Monitoring activities) is not fully implemented.",
+      "action": "Either finish the control or restore the risk score until it is in place."
+    },
+    {
+      "area": "risks",
+      "check": "TREATMENT_OVERDUE",
+      "severity": "medium",
+      "ref": "R02",
+      "title": "Treatment for risk R02 is overdue",
+      "detail": "Insider copies customer data to personal cloud: due 2026-09-15 (39 days late), owner CISO.",
+      "action": "Re-baseline the date with the owner or escalate."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_ACCEPT_REVIEW_OVERDUE",
+      "severity": "medium",
+      "ref": "R07",
+      "title": "Accepted risk R07 is past its review date",
+      "detail": "Review was due 2026-08-01.",
+      "action": "Re-confirm the acceptance or choose a treatment."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_RELIES_ON_GAP",
+      "severity": "medium",
+      "ref": "R07",
+      "title": "Risk R07 lowered by control 5.30 which is partial",
+      "detail": "Primary data centre outage: residual 5 < inherent 10, but 5.30 (ICT readiness for business continuity) is not fully implemented.",
+      "action": "Either finish the control or restore the risk score until it is in place."
+    },
+    {
+      "area": "risks",
+      "check": "RISK_UNKNOWN_CONTROL",
+      "severity": "medium",
+      "ref": "R08",
+      "title": "Risk R08 cites unknown control 9.9",
+      "detail": "Weak guest Wi-Fi segregation",
+      "action": "Correct the control reference."
+    },
+    {
+      "area": "audit",
+      "check": "FINDING_OVERDUE",
+      "severity": "low",
+      "ref": "F-03",
+      "title": "Open observation F-03 is past its due date",
+      "detail": "Awareness attendance records incomplete. Due 2026-10-10 (14 days late), owner HR Head.",
+      "action": "Agree a dated corrective action and verify closure."
+    },
+    {
+      "area": "audit",
+      "check": "FINDING_UNKNOWN_CONTROL",
+      "severity": "low",
+      "ref": "F-06",
+      "title": "Finding F-06 cites unknown control 9.9",
+      "detail": "Consider automating evidence collection",
+      "action": "Correct the reference."
+    },
+    {
+      "area": "controls",
+      "check": "NO_OWNER",
+      "severity": "low",
+      "ref": "SoA",
+      "title": "1 in-scope controls have no owner",
+      "detail": "7.4.",
+      "action": "Assign an accountable owner to each control."
+    }
+  ],
+  "gaps": [
+    "5.7",
+    "8.12",
+    "5.30",
+    "8.16"
+  ],
+  "risks": [
+    {
+      "id": "R09",
+      "title": "Legacy unsupported OS still in production",
+      "asset": "Legacy app server",
+      "likelihood": 5,
+      "impact": 4,
+      "controls": [],
+      "treatment_option": "accept",
+      "approved_by": "CEO",
+      "review_date": "2027-01-01",
+      "inherent": 20,
+      "residual": 20,
+      "inherent_rating": "critical",
+      "residual_rating": "critical"
+    },
+    {
+      "id": "R03",
+      "title": "Phishing leads to credential theft",
+      "asset": "User accounts",
+      "likelihood": 4,
+      "impact": 4,
+      "controls": [
+        "6.3",
+        "8.5"
+      ],
+      "residual_likelihood": 3,
+      "residual_impact": 4,
+      "treatment_option": "none",
+      "inherent": 16,
+      "residual": 12,
+      "inherent_rating": "high",
+      "residual_rating": "high"
+    },
+    {
+      "id": "R01",
+      "title": "Ransomware encrypts file servers",
+      "asset": "File servers",
+      "likelihood": 4,
+      "impact": 5,
+      "controls": [
+        "8.13",
+        "8.7",
+        "8.16"
+      ],
+      "residual_likelihood": 2,
+      "residual_impact": 5,
+      "treatment_option": "mitigate",
+      "treatment_owner": "IT Manager",
+      "treatment_due": "2027-01-01",
+      "treatment_status": "open",
+      "inherent": 20,
+      "residual": 10,
+      "inherent_rating": "critical",
+      "residual_rating": "medium"
+    },
+    {
+      "id": "R04",
+      "title": "KYC vendor suffers a breach",
+      "asset": "Vendor data flow",
+      "likelihood": 3,
+      "impact": 5,
+      "controls": [
+        "5.19",
+        "5.20",
+        "5.22"
+      ],
+      "residual_likelihood": 2,
+      "residual_impact": 5,
+      "treatment_option": "mitigate",
+      "treatment_owner": "Compliance Lead",
+      "treatment_due": "2026-08-01",
+      "treatment_status": "complete",
+      "inherent": 15,
+      "residual": 10,
+      "inherent_rating": "high",
+      "residual_rating": "medium"
+    },
+    {
+      "id": "R02",
+      "title": "Insider copies customer data to personal cloud",
+      "asset": "Customer data",
+      "likelihood": 3,
+      "impact": 4,
+      "controls": [
+        "8.12"
+      ],
+      "residual_likelihood": 2,
+      "residual_impact": 4,
+      "treatment_option": "mitigate",
+      "treatment_owner": "CISO",
+      "treatment_due": "2026-09-15",
+      "treatment_status": "open",
+      "inherent": 12,
+      "residual": 8,
+      "inherent_rating": "high",
+      "residual_rating": "medium"
+    },
+    {
+      "id": "R05",
+      "title": "Unpatched internet-facing server exploited",
+      "asset": "Web servers",
+      "likelihood": 3,
+      "impact": 4,
+      "controls": [
+        "8.8"
+      ],
+      "residual_likelihood": 2,
+      "residual_impact": 4,
+      "treatment_option": "mitigate",
+      "treatment_owner": "IT Manager",
+      "treatment_due": "2027-02-01",
+      "treatment_status": "open",
+      "inherent": 12,
+      "residual": 8,
+      "inherent_rating": "high",
+      "residual_rating": "medium"
+    },
+    {
+      "id": "R06",
+      "title": "Loss of a key team member",
+      "asset": "People",
+      "likelihood": 2,
+      "impact": 3,
+      "controls": [],
+      "treatment_option": "accept",
+      "approved_by": "CEO",
+      "review_date": "2027-03-01",
+      "inherent": 6,
+      "residual": 6,
+      "inherent_rating": "medium",
+      "residual_rating": "medium"
+    },
+    {
+      "id": "R07",
+      "title": "Primary data centre outage",
+      "asset": "Hosting",
+      "likelihood": 2,
+      "impact": 5,
+      "controls": [
+        "5.30"
+      ],
+      "residual_likelihood": 1,
+      "residual_impact": 5,
+      "treatment_option": "accept",
+      "review_date": "2026-08-01",
+      "inherent": 10,
+      "residual": 5,
+      "inherent_rating": "medium",
+      "residual_rating": "low"
+    },
+    {
+      "id": "R08",
+      "title": "Weak guest Wi-Fi segregation",
+      "asset": "Network",
+      "likelihood": 2,
+      "impact": 2,
+      "controls": [
+        "9.9"
+      ],
+      "treatment_option": "mitigate",
+      "treatment_owner": "IT Manager",
+      "treatment_due": "2027-01-15",
+      "treatment_status": "open",
+      "inherent": 4,
+      "residual": 4,
+      "inherent_rating": "low",
+      "residual_rating": "low"
+    },
+    {
+      "id": "R10",
+      "title": "Loss of backup media in transit",
+      "asset": "Backups",
+      "likelihood": 2,
+      "impact": 3,
+      "controls": [
+        "7.10",
+        "8.13"
+      ],
+      "residual_likelihood": 1,
+      "residual_impact": 3,
+      "treatment_option": "mitigate",
+      "treatment_owner": "IT Manager",
+      "treatment_due": "2027-03-01",
+      "treatment_status": "open",
+      "inherent": 6,
+      "residual": 3,
+      "inherent_rating": "medium",
+      "residual_rating": "low"
+    }
+  ]
+}

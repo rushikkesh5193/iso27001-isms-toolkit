@@ -1,0 +1,9 @@
+{
+  "status_credit": {"implemented": 1.0, "partial": 0.5, "planned": 0.0, "not_implemented": 0.0},
+  "risk_rating": {"critical": 20, "high": 12, "medium": 6},
+  "evidence_max_age_months": 12,
+  "internal_audit_max_age_months": 12,
+  "management_review_max_age_months": 12,
+  "risk_assessment_max_age_months": 12,
+  "max_ids_listed": 12
+}
